@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Productos</title>
+</head>
+<body>
+    <h1>Productos</h1>
+
+    <a href="/productos/crear">Crear producto</a>
+</body>
+</html>
